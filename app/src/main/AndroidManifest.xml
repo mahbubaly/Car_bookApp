@@ -11,6 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.BookCably"
+<<<<<<< HEAD
         tools:targetApi="31">
         <activity
             android:name="com.bookcably.UserVIewCarActivity"
@@ -31,5 +32,8 @@
             android:name="com.bookcably.MainAcivity"
             android:exported="false" />
     </application>
+=======
+        tools:targetApi="31" />
+>>>>>>> a49d765964f53ef2870660f125f9cf54c63fcca2
 
 </manifest>
